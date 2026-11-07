@@ -1,0 +1,11 @@
+{
+  "name": "Otomobil İmparatorluğu",
+  "short_name": "Oto Tycoon",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#17120e",
+  "theme_color": "#17120e",
+  "lang": "tr",
+  "description": "1930'dan başlayan 2D otomobil şirketi ve motor mühendisliği simülasyonu",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
